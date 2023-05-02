@@ -1,1 +1,1 @@
-select 3 as foo
+select 4 as foo
