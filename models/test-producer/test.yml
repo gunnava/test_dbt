@@ -1,0 +1,8 @@
+version: 2
+
+
+models:
+  - name: test
+    description: test model.
+    config:
+      access: public
